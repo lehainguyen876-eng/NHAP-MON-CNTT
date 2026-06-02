@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="rwguhldaeHkwaRWWwj-n">
+    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-1" target="9-tXPl1Kr8vIjBntp2Lv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bắt đầu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kết thúc&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-3" target="9-tXPl1Kr8vIjBntp2Lv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nhập điểm sinh viên&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(Thiết bị: bàn phím)&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-5" target="9-tXPl1Kr8vIjBntp2Lv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Lưu trữ điểm&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(phần mềm quản lí)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Không&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-7" target="9-tXPl1Kr8vIjBntp2Lv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Điểm hợp lệ&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="380" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-10" target="9-tXPl1Kr8vIjBntp2Lv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Xử lí điểm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="555" width="150" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Báo lỗi&amp;amp;Yêu cầu nhập lại&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="555" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Có&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.653;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-7" target="9-tXPl1Kr8vIjBntp2Lv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-11" target="9-tXPl1Kr8vIjBntp2Lv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-tXPl1Kr8vIjBntp2Lv-15" target="9-tXPl1Kr8vIjBntp2Lv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-tXPl1Kr8vIjBntp2Lv-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Xuất kết quả&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Arial, sans-serif; text-align: left; white-space-collapse: preserve;&quot;&gt;thiết bị xuất - màn hình, máy in&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="260" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
